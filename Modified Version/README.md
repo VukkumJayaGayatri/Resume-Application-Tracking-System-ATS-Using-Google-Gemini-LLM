@@ -1,3 +1,5 @@
+It looks like you're building a Smart ATS (Applicant Tracking System) that compares resumes against job descriptions using NLP techniques. Here's how you can refine and document the project in your GitHub README.
+
 📘 Project Title
 Smart ATS: AI-Powered Resume Analysis and Job Matching System
 
@@ -24,35 +26,7 @@ PyPDF2 for PDF parsing
 
 Regular Expressions (re) for text cleaning
 
-Google Gemini API (optional for further improvements)
-
-⚙️ Installation
-Clone the Repository
-
-bash
-Copy
-Edit
-git clone https://github.com/VukkumJayaGayatri/smart-ats.git
-cd smart-ats
-Create a Virtual Environment
-
-bash
-Copy
-Edit
-python -m venv env
-source env/bin/activate # For Linux/macOS
-env\Scripts\activate    # For Windows
-Install Dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Download and Install Poppler (Required for PDF Parsing)
-
-Download Poppler
-
-Extract and add the bin folder to your Path in Environment Variables.
+Google Gemini API
 
 🛎 How to Run
 bash
