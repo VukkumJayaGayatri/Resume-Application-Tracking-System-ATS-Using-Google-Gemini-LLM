@@ -25,22 +25,6 @@ Streamlit: Web framework
 
 PDFMiner: PDF text extraction
 
-🛠 Installation
-
-Follow these steps to set up the project locally:
-
-# Clone the repository
-git clone https://github.com/VukkumJayaGayatri/Smart-ATS-AI-Powered-Resume-Analysis-Using-Google-Gemini-LLM.git
-
-# Navigate to the project directory
-cd ATS-Tracking-System
-
-# Create a virtual environment
-python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
 
 🧑‍💻 Usage
 
