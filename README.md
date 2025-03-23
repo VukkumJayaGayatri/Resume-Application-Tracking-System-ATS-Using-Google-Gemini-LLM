@@ -2,13 +2,16 @@ ATS Tracking System
 
 An AI-powered Applicant Tracking System (ATS) designed to analyze resumes against job descriptions. It provides an overall match percentage, identifies missing keywords, and offers personalized suggestions to optimize resumes for specific roles.
 
+1. Field to put my JD
+2. Upload pdf
+3. pdf to Image -->  processing --> Google Gemini Pro
+4. Prompts Template
+
 🚀 Features
 
 Resume Parsing: Extracts text from PDF resumes using PDFMiner.
 
 Job Description Analysis: Processes job descriptions using NLP techniques.
-
-TF-IDF Matching: Computes a match percentage using TF-IDF for keyword-based similarity.
 
 Keyword Extraction: Identifies missing keywords based on job description analysis.
 
@@ -43,7 +46,7 @@ pip install -r requirements.txt
 
 Run the Application:
 
-python app.py
+streamlit run app.py
 
 Access the Web Interface:
 
